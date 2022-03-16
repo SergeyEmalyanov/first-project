@@ -3,7 +3,7 @@ public class Praktikum {
 		System.out.println ("Первый коммит");
 		System.out.println ("Изменения в GitHub");
 		System.out.println ("Изменения в Notepad++");
-		System.out.println ("Изменения в GitHub2");
+		System.out.println ("Изменения в Notepad++2");
 		
 	}
 }
